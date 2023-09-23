@@ -52,7 +52,7 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 <div align="center">
    <img src="./img/Backlog2 9tech.jpg" alt="PRODUCT BACKLOG" />
    <img src="./img/Sprints2 9tech.jpg" alt="SPRINT BACKLOG" />
-   <img src="" alt="USER STORIES" />
+   <img src="./img/9TECH - SIATT users.jpg" alt="USER STORIES" />
 </div>
 
 → [Voltar ao topo](#topo)
