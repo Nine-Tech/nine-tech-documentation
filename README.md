@@ -47,7 +47,8 @@ Durante a conclusão da sprint, obtivemos a aprovação dos elementos essenciais
 
 ### RF 01: Importação de arquivo .xlsx
 
-Esse requisito permite iniciar um projeto no sistema a partir de um arquivo excel no formato .xlsx (modelo -link), para primeira sprint os dados importados são da aba "Avanço e horas planejadas tabela WBS | Fração / Valor.
+Esse requisito permite iniciar um projeto no sistema a partir de um arquivo excel no formato .xlsx ([Arquivo padrão para importação](
+ https://easyupload.io/yhlxx6)), para primeira sprint os dados importados são da aba "Avanço e horas planejadas tabela WBS | Fração / Valor.
 
 ### RF 02: Leitura e Edição de dados
 
@@ -55,7 +56,8 @@ Esse requisito permite a edição das diferentes etapas do projeto, salvamento d
 
 #### Usuários do Sistema
 
-- **Usuário Engenheiro Chefe:** tem em sua página inicial a função de importar um projeto por meio de um arquivo .xlsx (modelo - link), os cards dos projetos já importados, podendo visualizar e editar as diferentes partes de um projeto e também atribuir um líder de projeto a um pacote de trabalho.
+- **Usuário Engenheiro Chefe:** tem em sua página inicial a função de importar um projeto por meio de um arquivo .xlsx ([Arquivo padrão para importação](
+ https://easyupload.io/yhlxx6)), os cards dos projetos já importados, podendo visualizar e editar as diferentes partes de um projeto e também atribuir um líder de projeto a um pacote de trabalho.
   <br>
 - **Usuário Líder de Projeto:** tem em sua página inicial os cards dos pacotes de trabalho atribuídos a ele.
 
@@ -69,11 +71,14 @@ Esse requisito permite a edição das diferentes etapas do projeto, salvamento d
 
 ## :link: Links úteis
 
-
-
-  - Repositório do projeto: [clique aqui para acessar "9tech"](https://github.com/Nine-Tech/nine-tech-documentation)
+ - **Repositórios**
+    - Documentação Completa: [clique aqui](https://github.com/Nine-Tech/nine-tech-documentation)
+    - Frontend:[clique aqui](https://github.com/Nine-Tech/nine-tech-front/tree/2719c0b5d8162bfdd900a73e510ae512bb04acf7) 
+    - Backend:[clique aqui](https://github.com/Nine-Tech/nine-tech-back/tree/ae78389255aec3bacd31c4cf6c692085983a4334) 
+    <br>
   
-  - Modelo do Arquivo para importação: 
+  - **Modelo do Arquivo para importação:** [Cique aqui](
+ https://easyupload.io/yhlxx6)
  
  
 
