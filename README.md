@@ -13,7 +13,7 @@
 <a href="#links">Links úteis</a>
 </p>
 
-Nossa parceira, a empresa Siatt, enfrenta o desafio de gerenciar eficazmente seus projetos estratégicos em um cenário de complexidade, apresentamos uma solução abrangente e flexível, um Sistema de Gerenciamento de Projetos Complexos. Esse sistema foi projetado para atender às necessidades específicas da Siatt, permitindo tanto um macro gerenciamento quanto um micro gerenciamento dos projetos
+O projeto visa criar um sistema de gerenciamento de equipes para projetos complexos. Na primeira sprint, focamos na funcionalidade de importação e edição de projetos a partir de arquivos .xlsx. Para isso, validamos requisitos, desenvolvemos um protótipo e construímos interfaces e serviços de alto valor para o cliente. Isso nos permitiu iniciar com uma entrega alinhada às necessidades do cliente e com base sólida para próximas sprints.
 
 <span id="objetivos">
 
