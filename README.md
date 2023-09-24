@@ -36,7 +36,7 @@ Nossa parceira, a empresa Siatt, enfrenta o desafio de gerenciar eficazmente seu
 Cada entrega será realizada a partir da criação de uma **tag** em cada repositório (Front, Back, Documentação), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 24/09/2023 | 🚧 Em andamento | [Ver relatório]() |
+| 01 | 24/09/2023 | 🚧 Em andamento | [Ver relatório](https://github.com/Nine-Tech/nine-tech-documentation/tree/sprint1) |
 | 02 | 15/10/2023 | 🛑 Não iniciada| [Ver relatório]() |
 | 03 | 05/11/2023 | 🛑 Não iniciada| [Ver relatório]() |
 | 04 | 26/11/2023 | 🛑 Não iniciada| [Ver relatório]() |
