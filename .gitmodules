@@ -1,6 +1,0 @@
-[submodule "nine-tech-front"]
-	path = nine-tech-front
-	url = https://github.com/Nine-Tech/nine-tech-front
-[submodule "nine-tech-back"]
-	path = nine-tech-back
-	url = https://github.com/Nine-Tech/nine-tech-back.git
