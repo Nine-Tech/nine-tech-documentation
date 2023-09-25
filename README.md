@@ -107,5 +107,7 @@ Linguagens, bibliotecas e tecnologias usadas na construção do projeto:
 - Repositório Backend: [clique aqui](https://github.com/Nine-Tech/nine-tech-back/tree/ae78389255aec3bacd31c4cf6c692085983a4334)
 - Modelo do Arquivo para importação: [Cique aqui](
  https://easyupload.io/yhlxx6)
+ 
   <br>
+
   → [Voltar ao topo](#topo)
