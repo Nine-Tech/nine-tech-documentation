@@ -10,7 +10,8 @@ Documentação do projeto "Nine Tech" (3º DSM - 2023, FATEC Profº Jessen Vidal
     <a href="#sobre">Sobre</a>  |
     <a href="#backlogs">Backlogs, Épicos & User Stories</a>  |
     <a href="#tecnologias">Tecnologias</a>  |
-    <a href="#equipe">Equipe</a>
+    <a href="#equipe">Equipe</a> |
+    <a href="#links">Links úteis</a>
 </p>
 
 <span id="sobre">
@@ -77,7 +78,6 @@ Linguagens, bibliotecas e tecnologias usadas na construção do projeto:
 <img src="https://img.shields.io/badge/Slack-%23121011.svg?style=for-the-badge&logo=slack&logoColor=white
 " alt="Discord" />
 
-
 → [Voltar ao topo](#topo)
 
 <span id="equipe">
@@ -86,7 +86,7 @@ Linguagens, bibliotecas e tecnologias usadas na construção do projeto:
 
 |    Função     | Nome                           |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :----------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner | Daniel Machado dos Santos      |                                  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmssjk/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/dmssjk)                                   |
+| Product Owner | Daniel Machado dos Santos      |                 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmssjk/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/dmssjk)                 |
 | Scrum Master  | Jonas Rafael Siqueira Ribeiro  |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonasrsribeiro/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/jonasrsribeiro)         |
 |   Dev Team    | Gabriel Brosig Briscese        |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-brosig-briscese-344a5587/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Briscese)   |
 |   Dev Team    | Gabriel Oliveira dos Santos    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-6b46b7228/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/dosantos-ogabriel)   |
@@ -97,3 +97,15 @@ Linguagens, bibliotecas e tecnologias usadas na construção do projeto:
 |   Dev Team    | Yasmin Helena Souza Mosena     |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-m%C3%B3sena-11b256249/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ymosena)      |
 
 → [Voltar ao topo](#topo)
+
+<span id="links">
+
+## :link: Links úteis
+
+- Repositório Frontend: [clique aqui](https://github.com/Nine-Tech/nine-tech-front/tree/2719c0b5d8162bfdd900a73e510ae512bb04acf7)
+
+- Repositório Backend: [clique aqui](https://github.com/Nine-Tech/nine-tech-back/tree/ae78389255aec3bacd31c4cf6c692085983a4334)
+- Modelo do Arquivo para importação: [Cique aqui](
+ https://easyupload.io/yhlxx6)
+  <br>
+  → [Voltar ao topo](#topo)
