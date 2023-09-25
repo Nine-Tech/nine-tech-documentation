@@ -37,11 +37,10 @@ Os requisitos contemplados por esta sprint incluem:
 
 Durante a conclusão da sprint, obtivemos a aprovação dos elementos essenciais do SCRUM, incluindo o Backlog do Produto, o Backlog das Sprints e as User Stories, por meio de uma comunicação direta estabelecida entre o Product Owner (P.O.) e o cliente.
 
-##gif do projeto - incluir
 
 <div align="center">
 
-![./demo.gif](./demo.gif)
+![./demo.gif](./importproject.gif)
 
 </div>
 
