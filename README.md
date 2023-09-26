@@ -34,11 +34,11 @@ Nossa parceira, a empresa Siatt, enfrenta o desafio de gerenciar eficazmente seu
 
 ### 🏁 Entregas de Sprints
 
-Cada entrega será realizada a partir da criação de uma **tag** em cada repositório (Front, Back, Documentação), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
+Cada entrega será realizada a partir da criação de uma **tag** em cada repositório (Front, Back), além da criação de uma branch no repositório da documentação com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 24/09/2023 | 🚧 Em andamento | [Ver relatório](https://github.com/Nine-Tech/nine-tech-documentation/tree/sprint1) |
-| 02 | 15/10/2023 | 🛑 Não iniciada| [Ver relatório]() |
+| 01 | 24/09/2023 | ✔️ Concluída | [Ver relatório](https://github.com/Nine-Tech/nine-tech-documentation/tree/sprint1) |
+| 02 | 15/10/2023 | 🚧 Em andamento| [Ver relatório]() |
 | 03 | 05/11/2023 | 🛑 Não iniciada| [Ver relatório]() |
 | 04 | 26/11/2023 | 🛑 Não iniciada| [Ver relatório]() |
 
@@ -105,9 +105,8 @@ Linguagens, bibliotecas e tecnologias usadas na construção do projeto:
 - Repositório Frontend: [clique aqui](https://github.com/Nine-Tech/nine-tech-front/tree/2719c0b5d8162bfdd900a73e510ae512bb04acf7)
 
 - Repositório Backend: [clique aqui](https://github.com/Nine-Tech/nine-tech-back/tree/ae78389255aec3bacd31c4cf6c692085983a4334)
-- Modelo do Arquivo para importação: [Cique aqui](
- https://easyupload.io/yhlxx6)
- 
-  <br>
+- Modelo do Arquivo para importação: [Cique aqui](https://easyupload.io/yhlxx6)
+
+   <br>
 
   → [Voltar ao topo](#topo)
