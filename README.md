@@ -4,7 +4,7 @@
 
 <span id="topo">
 
-<h1 align="center">Sprint 1: 04/09/2023 a 24/09/2023</h1>
+<h1 align="center">Sprint 2: 25/09/2023 a 15/10/2023</h1>
 
 <p align="center">
 <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -23,8 +23,10 @@ Os requisitos contemplados por esta sprint incluem:
 
 #### Requisitos Funcionais
 
-- **RF 01: Importação de Planilhas Excel (.xlsx)**
-- **RF 02: Leitura e edição de projetos**
+- **RF 02: Dashboard dos Projetos**
+- **RF 01: Login no Sistema**
+- **RF 04: Atribuição Mensal de Trabalho Planejado**
+- **RF 04: Atribuição Mensal de Trabalho Concluído**
 
 #### Requisitos Não Funcionais
 
@@ -40,33 +42,34 @@ Durante a conclusão da sprint, obtivemos a aprovação dos elementos essenciais
 
 <div align="center">
 
-![./demo.gif](./importproject.gif)
+![./demo.gif](./)
 
 </div>
 
-### RF 01: Importação de arquivo .xlsx
+### RF 02: Dashboard dos Projetos
 
-Esse requisito permite iniciar um projeto no sistema a partir de um arquivo excel no formato .xlsx ([Arquivo padrão para importação](
- https://easyupload.io/yhlxx6)), para primeira sprint os dados importados são da aba "Avanço e horas planejadas tabela WBS | Fração / Valor.
+Esse requisito permite visualizar um Projeto no sistema e todos sua estrutura de trabalho: Pacotes, Subpacotes e Tarefas, bem como seus dados integros e persistidos.
 
-### RF 02: Leitura e Edição de dados
+### RF 01: Login no Sistema
 
-Esse requisito permite a edição das diferentes etapas do projeto, salvamento dessas edições no banco de dados.
+Esse requisito permite a entrada e saída de usuários através de autenticação. Permitindo a separação entre as páginas atribuídas a cada um.
+
+### RF 04: Atribuição Mensal de Trabalho Planejado
+
+Esse requisito permite ao Líder de Projeto em questão fazer o planejamento todo do seu Subpacote, mês a mês, atribuindo uma porcentagem de trabalho esperada.
+
+### RF 04: Atribuição Mensal de Trabalho Concluído
+
+Esse requisito permite, através das Tarefas criadas pelo Líder de Projeto, um cálculo da porcentagem real de trabalho concluída.
 
 #### Usuários do Sistema
 
-- **Usuário Engenheiro Chefe:** tem em sua página inicial a função de importar um projeto por meio de um arquivo .xlsx ([Arquivo padrão para importação](
+- **Usuário Engenheiro Chefe: (senha: 123)** tem em sua página inicial a função de importar um projeto por meio de um arquivo .xlsx ([Arquivo padrão para importação](
  https://easyupload.io/yhlxx6)), os cards dos projetos já importados, podendo visualizar e editar as diferentes partes de um projeto e também atribuir um líder de projeto a um pacote de trabalho.
   <br>
-- **Usuário Líder de Projeto:** tem em sua página inicial os cards dos pacotes de trabalho atribuídos a ele.
-
-
-
-
-
+- **Usuário Líder de Projeto: (senha: 123)** tem em sua página inicial os cards dos pacotes de trabalho atribuídos a ele.
 
 <span id="links">
-
 
 ## :link: Links úteis
 
