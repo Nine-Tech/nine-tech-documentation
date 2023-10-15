@@ -51,7 +51,7 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 ## :dart: Backlogs, Épicos & User Stories
 
 <div align="center">
-   <img src="./img/Backlog2 9tech.jpg" alt="PRODUCT BACKLOG" />
+   <img src="./img/Backlog2 9tech atualizado.jpg" alt="PRODUCT BACKLOG" />
    <img src="./img/9TECH - SIATT atualizado.jpg" alt="SPRINT BACKLOG" />
    <img src="./img/9TECH - SIATT users.jpg" alt="USER STORIES" />
 </div>
