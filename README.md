@@ -18,15 +18,15 @@ Documentação do projeto "Nine Tech" (3º DSM - 2023, FATEC Profº Jessen Vidal
 
 ## :bookmark_tabs: Sobre o projeto
 
-Nossa parceira, a empresa Siatt, enfrenta o desafio de gerenciar eficazmente seus projetos estratégicos em um cenário de complexidade, apresentamos uma solução abrangente e flexível, um Sistema de Gerenciamento de Projetos Complexos. Esse sistema foi projetado para atender às necessidades específicas da Siatt, permitindo tanto um macro gerenciamento quanto um micro gerenciamento dos projetos
+Nossa parceira, a empresa Siatt, enfrenta o desafio de gerenciar eficazmente seus projetos estratégicos em um cenário de complexidade, apresentamos uma solução abrangente e flexível, um Sistema de Gerenciamento de Times para Projetos Complexos. Esse sistema foi projetado para atender às necessidades específicas da Siatt, permitindo tanto um macro gerenciamento quanto um micro gerenciamento dos projetos.
 
-### :warning: Problema
+### :warning: Dificuldades
 
-> _Dificuldade na gestão e no acompanhamento em tempo real dos projetos e suas respectivas etapas, comprometendo a eficiência operacional e a capacidade de visualizar claramente o progresso._
+> _Contratempos que afetam a eficiência operacional, a comunicação eficaz e a capacidade de monitorar o progresso dos projetos e suas etapas em tempo real. Estes desafios incluem dificuldade de gestão apropriada e um acompanhamento adequado dos projetos, juntamente com uma interface de usuário pouco amigável e problemas relacionados à integridade dos dados._
 
-### :white_check_mark: Solução
+### :white_check_mark: Proposta de Solução
 
-> _Um software especializado que permita importar dados de projetos em andamento a partir de arquivos Excel, melhorando a organização, o acompanhamento em tempo real e a colaboração entre as diferentes etapas do projeto._
+> _Um software especializado que permita importar dados de projetos em andamento a partir de arquivos Excel, para facilitar a migração de dados e a transição para um novo sistema de gerenciamento. A partir disso, o Engenheiro Chefe pode atribuir pacotes de trabalho e observar cada mudança do projeto e seus pacotes, subpacotes e tarefas. Melhorando a organização, o acompanhamento em tempo real e a colaboração entre as diferentes etapas do projeto. Já os Líderes de Projeto, têm acesso individual apenas aos seus Pacotes, podem gerenciá-los e acompanhar o andamento. De forma intuitiva, amigável e de usabilidade alta._
 
 <!-- > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_ -->
 
@@ -38,8 +38,8 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 24/09/2023 | ✔️ Concluída | [Ver relatório](https://github.com/Nine-Tech/nine-tech-documentation/tree/sprint1) |
-| 02 | 15/10/2023 | 🚧 Em andamento| [Ver relatório]() |
-| 03 | 05/11/2023 | 🛑 Não iniciada| [Ver relatório]() |
+| 02 | 15/10/2023 | ✔️ Concluída | [Ver relatório](https://github.com/Nine-Tech/nine-tech-documentation/tree/sprint2) |
+| 03 | 05/11/2023 | 🚧 Em andamento | [Ver relatório]() |
 | 04 | 26/11/2023 | 🛑 Não iniciada| [Ver relatório]() |
 
 <!--# ✔️ Concluída -->
@@ -52,7 +52,7 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 
 <div align="center">
    <img src="./img/Backlog2 9tech.jpg" alt="PRODUCT BACKLOG" />
-   <img src="./img/Sprints2 9tech.jpg" alt="SPRINT BACKLOG" />
+   <img src="./img/9TECH - SIATT atualizado.jpg" alt="SPRINT BACKLOG" />
    <img src="./img/9TECH - SIATT users.jpg" alt="USER STORIES" />
 </div>
 
@@ -75,8 +75,7 @@ Linguagens, bibliotecas e tecnologias usadas na construção do projeto:
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-<img src="https://img.shields.io/badge/Slack-%23121011.svg?style=for-the-badge&logo=slack&logoColor=white
-" alt="Discord" />
+<img src="https://img.shields.io/badge/Slack-%23121011.svg?style=for-the-badge&logo=slack&logoColor=white" alt="Discord" />
 
 → [Voltar ao topo](#topo)
 
@@ -86,15 +85,16 @@ Linguagens, bibliotecas e tecnologias usadas na construção do projeto:
 
 |    Função     | Nome                           |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :----------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner | Daniel Machado dos Santos      |                 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmssjk/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/dmssjk)                 |
-| Scrum Master  | Jonas Rafael Siqueira Ribeiro  |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonasrsribeiro/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/jonasrsribeiro)         |
+| Product Owner | Jonas Rafael Siqueira Ribeiro      |                 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonasrsribeiro/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/jonasrsribeiro)         |             
+| Scrum Master  |  Gabriela da Silva Barbosa      |        [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieladsbarbosa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabidsbarbosa)        |         
 |   Dev Team    | Gabriel Brosig Briscese        |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-brosig-briscese-344a5587/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Briscese)   |
-|   Dev Team    | Gabriel Oliveira dos Santos    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-6b46b7228/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/dosantos-ogabriel)   |
-|   Dev Team    | Gabriela da Silva Barbosa      |        [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieladsbarbosa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabidsbarbosa)         |
+|   Dev Team    | Gabriel Oliveira dos Santos    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-6b46b7228/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/dosantos-ogabriel)   | 
 |   Dev Team    | Igor da Silva Pereira          | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-da-silva-pereira-119794159/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/igorpereira28) |
 |   Dev Team    | Jean Lucas de Faria Silva      |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jean-faria-5a4b201b9/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/jeejinf)          |
+|   Dev Team    | Miguel Carvalho Soares     |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-carvalho-soares-722b161a3/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Miguel-C1)          |
+|   Dev Team    | Otávio Abreu dos Santos Silva   |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/o-abreu/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/otavioabreu27)          |
 |   Dev Team    | Thiago Frederico da Silva Zani |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-zani-1b8503249/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/zani19)          |
-|   Dev Team    | Yasmin Helena Souza Mosena     |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-m%C3%B3sena-11b256249/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ymosena)      |
+|   Dev Team    | Vitor Garcez de Oliveira    |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgarcezdeoliveira/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Vitaog)      |
 
 → [Voltar ao topo](#topo)
 
