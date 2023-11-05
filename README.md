@@ -4,7 +4,7 @@
 
 <span id="topo">
 
-<h1 align="center">Sprint 2: 25/09/2023 a 15/10/2023</h1>
+<h1 align="center">Sprint 3: 16/10/2023 a 05/11/2023</h1>
 
 <p align="center">
 <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -23,10 +23,9 @@ Os requisitos contemplados por esta sprint incluem:
 
 #### Requisitos Funcionais
 
+- **RF 07: Gráficos de Curva S**
+- **RF 05: Data Final e Valor Homem Hora do Projeto**
 - **RF 02: Dashboard dos Projetos**
-- **RF 01: Login no Sistema**
-- **RF 04: Atribuição Mensal de Trabalho Planejado**
-- **RF 04: Atribuição Mensal de Trabalho Concluído**
 
 #### Requisitos Não Funcionais
 
@@ -50,21 +49,17 @@ Durante a conclusão da sprint, obtivemos a aprovação dos elementos essenciais
 
 </div>
 
+### RF 07: Gráficos de Curva S
+
+Esse requisito permite ao Engenheiro Chefe a visualização em gráfico do andamento mensal da Porcentagens Reais Vs. Porcentagens Planejadas.
+
+### RF 05: Data Final e Valor Homem Hora do Projeto
+
+Esse requisito permite ao Engenheiro Chefe a adição do Valor Homem Hora do Projeto junto da Data Final de entrega no momento da criação do Projeto.
+
 ### RF 02: Dashboard dos Projetos
 
 Esse requisito permite visualizar um Projeto no sistema e todos sua estrutura de trabalho: Pacotes, Subpacotes e Tarefas, bem como seus dados integros e persistidos.
-
-### RF 01: Login no Sistema
-
-Esse requisito permite a entrada e saída de usuários através de autenticação. Permitindo a separação entre as páginas atribuídas a cada um.
-
-### RF 04: Atribuição Mensal de Trabalho Planejado
-
-Esse requisito permite ao Líder de Projeto em questão fazer o planejamento todo do seu Subpacote, mês a mês, atribuindo uma porcentagem de trabalho esperada.
-
-### RF 04: Atribuição Mensal de Trabalho Concluído
-
-Esse requisito permite, através das Tarefas criadas pelo Líder de Projeto, um cálculo da porcentagem real de trabalho concluída.
 
 #### Usuários do Sistema
 
