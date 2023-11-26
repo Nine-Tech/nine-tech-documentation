@@ -42,8 +42,8 @@ Durante a conclusão da sprint, obtivemos a aprovação dos elementos essenciais
 <div align="center">
 
 ![./gif12.gif](./gif12.gif)
-![./gif13.gif](./gif13.gif)
-![./gif11.gif](./gif11.gif)
+![./git13.gif](./git13.gif)
+![./git11.gif](./git11.gif)
 ![./gif10.gif](./gif10.gif)
 
 </div>
