@@ -40,7 +40,7 @@ Cada entrega será realizada a partir da criação de uma **tag** em cada reposi
 | 01 | 24/09/2023 | ✔️ Concluída | [Ver relatório](https://github.com/Nine-Tech/nine-tech-documentation/tree/sprint1) |
 | 02 | 15/10/2023 | ✔️ Concluída | [Ver relatório](https://github.com/Nine-Tech/nine-tech-documentation/tree/sprint2) |
 | 03 | 05/11/2023 | ✔️ Concluída | [Ver relatório](https://github.com/Nine-Tech/nine-tech-documentation/tree/sprint3) |
-| 04 | 26/11/2023 | 🚧 Em andamento | [Ver relatório]() |
+| 04 | 26/11/2023 | ✔️ Concluída | [Ver relatório](https://github.com/Nine-Tech/nine-tech-documentation/tree/sprint4) |
 
 <!--# ✔️ Concluída -->
 
