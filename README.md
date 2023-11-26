@@ -4,7 +4,7 @@
 
 <span id="topo">
 
-<h1 align="center">Sprint 3: 16/10/2023 a 05/11/2023</h1>
+<h1 align="center">Sprint 3: 06/11/2023 a 26/11/2023</h1>
 
 <p align="center">
 <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -23,9 +23,9 @@ Os requisitos contemplados por esta sprint incluem:
 
 #### Requisitos Funcionais
 
-- **RF 07: Gráficos de Curva S**
-- **RF 05: Data Final e Valor Homem Hora do Projeto**
-- **RF 02: Dashboard dos Projetos**
+- **RF 05: Criação, Listagem, Atualização e Exclusão de Líderes de Projeto pelo Engenheiro Chefe**
+- **RF 02: Criação de Baseline e Tendência para análise de Tendência de Projeto**
+- **RF 01: Saída de Arquivo Excel contendo WBS e Porcentagens**
 
 #### Requisitos Não Funcionais
 
@@ -41,24 +41,24 @@ Durante a conclusão da sprint, obtivemos a aprovação dos elementos essenciais
 
 <div align="center">
 
-![./gif6.gif](./gif6.gif)
-![./gif7.gif](./gif7.gif)
-![./gif8.gif](./gif8.gif)
-![./gif9.gif](./gif9.gif)
+![./gif12.gif](./gif12.gif)
+![./gif13.gif](./gif13.gif)
+![./gif11.gif](./gif11.gif)
+![./gif10.gif](./gif10.gif)
 
 </div>
 
-### RF 07: Gráficos de Curva S
+### RF 05: CRUD de Líderes de Projeto pelo Engenheiro Chefe
 
-Esse requisito permite ao Engenheiro Chefe a visualização em gráfico do andamento mensal da Porcentagens Reais Vs. Porcentagens Planejadas.
+Esse requisito permite ao Engenheiro Chefe a Criação, Listagem, Atualização e Exclusão de Líderes de Projeto.
 
-### RF 05: Data Final e Valor Homem Hora do Projeto
+### RF 02: Criação de Baseline e Tendência para análise de Tendência de Projeto
 
-Esse requisito permite ao Engenheiro Chefe a adição do Valor Homem Hora do Projeto junto da Data Final de entrega no momento da criação do Projeto.
+Esse requisito permite ao Líder de Projeto criar uma tendência para a atividade, incluindo atrasá-la ou adiantá-la em relação a Data estipulada como Baseline.
 
-### RF 02: Dashboard dos Projetos
+### RF 01: Saída de Arquivo Excel contendo WBS e Porcentagens
 
-Esse requisito permite visualizar um Projeto no sistema e todos sua estrutura de trabalho: Pacotes, Subpacotes e Tarefas, bem como seus dados integros e persistidos.
+Esse requisito permite ao Engenheiro Chefe baixar em arquivo Excel a estrutura WBS do Projeto junto das Porcentagens Reais avançadas para cada um dos itens da estrutura.
 
 #### Usuários do Sistema
 
